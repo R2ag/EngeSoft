@@ -1,6 +1,12 @@
 # Projeto: Minha Linguagem !!
 
 
+# Equipe
+1) Rafael Lacerda
+2) Ricardo Magalhães Simões
+3) Felipe Moreira
+# Prof Ricardo de Magalhães Simões
+
 
 ### :mag_right: Introdução
 
